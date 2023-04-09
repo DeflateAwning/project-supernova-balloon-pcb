@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Project-Supernova-Symbol-Lib")(type "KiCad")(uri "${KIPRJMOD}/lib/Project-Supernova-Symbol-Lib.kicad_sym")(options "")(descr ""))
+)

@@ -1,9 +1,9 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "BMP280-Module-30Pin" (in_bom yes) (on_board yes)
+  (symbol "BMP280-Module" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -1.27 -2.54 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "BMP280-Module-30Pin" (at -1.27 -5.08 0)
+    (property "Value" "BMP280-Module" (at -1.27 -5.08 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Project-Supernova-Footprint-Lib:BMP280-Module" (at -6.35 -15.24 0)
@@ -12,7 +12,7 @@
     (property "Datasheet" "" (at -6.35 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "BMP280-Module-30Pin_1_1"
+    (symbol "BMP280-Module_1_1"
       (rectangle (start -8.89 10.16) (end 3.81 -1.27)
         (stroke (width 0) (type default))
         (fill (type background))
@@ -43,7 +43,7 @@
       )
     )
   )
-  (symbol "ESP32-Module" (in_bom yes) (on_board yes)
+  (symbol "ESP32-Module-30Pin" (in_bom yes) (on_board yes)
     (property "Reference" "U" (at -20.32 19.05 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -56,7 +56,7 @@
     (property "Datasheet" "" (at -40.64 26.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "ESP32-Module_1_1"
+    (symbol "ESP32-Module-30Pin_1_1"
       (rectangle (start -25.4 15.24) (end 21.59 -35.56)
         (stroke (width 0) (type default))
         (fill (type background))

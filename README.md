@@ -11,8 +11,11 @@ This project is a PCB which is capable of being the primary payload on a PCB abo
 
 ## Notes
 * 3v3 regulated voltage. 9v unregulated battery voltage.
+ 
+## Rev 2 Errata
+1. Nothing yet (fingers crossed)
 
-## Errata
+## Rev 1 Errata
 1. DHT22 doesn't support 3V3 supply, technically
 2. ADC2 doesn't work when wifi is enabled
 3. DHT22 cannot be connected to pin D12, as D12 must be floating at boot
@@ -27,7 +30,7 @@ This project is a PCB which is capable of being the primary payload on a PCB abo
 ### Changes made to correct errata items (Rev 1.1)
 * DHT22 (`DHT_DATA`) now connected to D23 (per Errata #3).
 * DHT22 now has a 10k pull-up to 3V3 (Errata #6).
-* `TEMP_V+` now connectod to D24 (per Errata #4), and still left connected to D35.
+* `TEMP_V+` now connected to D25 (per Errata #4), and still left connected to D35.
 * LM335 onboard temperature sensor is unused.
 
 ### OFIs

@@ -2,11 +2,11 @@
 A Helium Balloon, to assess the Helium Network.
 
 ## Features
-This project is a PCB which is capable of being the primary payload on a PCB aboard a statospheric helium balloon. The PCB intends to downlink 
+This project is a PCB which is capable of being the primary payload on a PCB aboard a stratospheric helium balloon. The PCB intends to downlink 
 
 * Onboard GPS for position tracking
 * Atmospheric condition sensors (temperature/pressure/humidity) to generate downlink data
-* Onboard PID-controlled heater and battery manangement
+* Onboard PID-controlled heater and battery management
 * Very low cost (<$100)
 
 ## Notes

@@ -474,8 +474,8 @@
     },
     "net_colors": null,
     "netclass_assignments": {
-      "Net-(J4-In)": "RF_50ohm",
-      "Net-(U3-RFIO)": "RF_50ohm"
+      "Net-(J202-In)": "RF_50ohm",
+      "Net-(U201-RFIO)": "RF_50ohm"
     },
     "netclass_patterns": [
       {
@@ -545,6 +545,18 @@
     [
       "c3359c04-e049-4b5c-b9e7-2425ad933569",
       ""
+    ],
+    [
+      "eb0307b2-41d1-408c-8718-fd54dbcd85a8",
+      "LoRa_Module"
+    ],
+    [
+      "491de49a-91cb-4009-8d6c-281077f8e08e",
+      "Power"
+    ],
+    [
+      "bb548500-38a1-4ed9-8b6d-9a6e4dde3169",
+      "ModulesA"
     ]
   ],
   "text_variables": {}

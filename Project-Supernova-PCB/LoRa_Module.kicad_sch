@@ -2,7 +2,7 @@
 
   (uuid 8c3acec1-6d99-4658-a66e-650d222db03b)
 
-  (paper "A4")
+  (paper "USLetter")
 
   (lib_symbols
     (symbol "Connector:Conn_Coaxial" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
